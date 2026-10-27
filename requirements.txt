@@ -1,0 +1,9 @@
+irish-electricity-data==0.1.0
+pandas
+numpy
+scikit-learn
+matplotlib
+holidays
+httpx
+python-dotenv
+azure-storage-blob
