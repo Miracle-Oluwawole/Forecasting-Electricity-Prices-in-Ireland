@@ -74,13 +74,14 @@ flowchart LR
 ## Repository structure
 
 ```
-├── Forecasting_Irish_Electricity_Price.ipynb   # Full pipeline: extraction to evaluation
+├── Forecasting Irish Electricity Price.ipynb   # Full pipeline: extraction to evaluation
 ├── auction_data/                               # Local outputs (git-ignored)
 │   ├── irish_day_ahead_auction_results.csv
 │   ├── irish_day_ahead_model_data.csv
 │   ├── eirgrid_fundamentals_30min.csv
 │   ├── test_forecasts*.csv
-│   └── eirgrid_cache/                          # Daily EirGrid responses
+│   └── eirgrid_cache/                       # Daily EirGrid responses
+├── Forecasting Irish Electricity Price.docx  # Analysis report
 ├── requirements.txt
 └── README.md
 ```
